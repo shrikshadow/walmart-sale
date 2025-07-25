@@ -4,8 +4,13 @@ This repository contains a capstone project analyzing the Walmart sales dataset.
 Key features:
 
 Data cleaning and preprocessing
+
 Exploratory data analysis and visualization
+
 Outlier detection and removal
+
 Correlation analysis between sales and external factors
+
 Insights into best and worst performing stores and periods
+
 Dataset: Walmart.csv (6435 rows × 8 columns)
