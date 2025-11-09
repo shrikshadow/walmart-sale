@@ -41,12 +41,16 @@ Insights
 
 •	Explored variables including temperature, fuel price, unemployment, CPI and holiday flags, identifying their correlation with sales peaks in order to find the impact on demand , informing better planning .
 
-•	Found that holiday flag correlate with significant sales peaks, revealing a 5.13% spike in sales  data helping inform demand forecasting and reduce stockouts during peak periods.
+•	Found that holiday flag correlate with significant sales peaks, revealing a 7.84% spike in sales  data helping inform demand forecasting and reduce stockouts during peak periods.
+
+• Despite  of  FEB & SEP  have holiday still its avg sales is less noraml avg.
 
 
 
-Sales are highest in moderate temperature ranges and during certain months (April, July).
- 
+Sales are highest in moderate temperature ranges and during certain months (NOV,DEC) Percentage Increase in Sales during Top 2 months: 12.22%
+
+Sales are lowest in JAN month 
+
 Unemployment and CPI show negative correlation with sales.
  
 Holiday weeks have a distinct impact on sales patterns.
@@ -56,4 +60,4 @@ Outlier removal improves the reliability of insights.
 
 Usage
 
-Open shrikant_walmart.ipynb in Jupyter Notebook or VS Code to view the step-by-step analysis, code, and visualizations.
+Open wp.ipynb in Jupyter Notebook or VS Code to view the step-by-step analysis, code, and visualizations.
